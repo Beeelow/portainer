@@ -347,7 +347,7 @@
 			]
 		},
 		{
-			"type": 1,
+			"type": 3,
 			"title": "AzuraCast",
 			"description": "AzuraCast Web Radio Suite Docker installation.",
 			"administrator_only": false,
